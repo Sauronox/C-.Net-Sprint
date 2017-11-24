@@ -1,0 +1,11 @@
+/Users/alan/Projects/SocialCS/SocialCS/bin/Debug/netcoreapp2.0/SocialCS.deps.json
+/Users/alan/Projects/SocialCS/SocialCS/bin/Debug/netcoreapp2.0/SocialCS.runtimeconfig.json
+/Users/alan/Projects/SocialCS/SocialCS/bin/Debug/netcoreapp2.0/SocialCS.runtimeconfig.dev.json
+/Users/alan/Projects/SocialCS/SocialCS/bin/Debug/netcoreapp2.0/SocialCS.dll
+/Users/alan/Projects/SocialCS/SocialCS/bin/Debug/netcoreapp2.0/SocialCS.pdb
+/Users/alan/Projects/SocialCS/SocialCS/obj/Debug/netcoreapp2.0/SocialCS.csprojResolveAssemblyReference.cache
+/Users/alan/Projects/SocialCS/SocialCS/obj/Debug/netcoreapp2.0/SocialCS.csproj.CoreCompileInputs.cache
+/Users/alan/Projects/SocialCS/SocialCS/obj/Debug/netcoreapp2.0/SocialCS.AssemblyInfoInputs.cache
+/Users/alan/Projects/SocialCS/SocialCS/obj/Debug/netcoreapp2.0/SocialCS.AssemblyInfo.cs
+/Users/alan/Projects/SocialCS/SocialCS/obj/Debug/netcoreapp2.0/SocialCS.dll
+/Users/alan/Projects/SocialCS/SocialCS/obj/Debug/netcoreapp2.0/SocialCS.pdb
